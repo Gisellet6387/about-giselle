@@ -6,8 +6,8 @@ Giselle is currently a Junior in high school. She is Mexican American and likes 
 
     She would like to..  
 * Travel more
-* Buy my own house 
-* Meet my favorite singer
+* Buy her own house 
+* Meet her favorite singer
     - Romeo Santos or Adriel Favela
 ___
 _Schedule_:  
