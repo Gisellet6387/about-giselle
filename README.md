@@ -1,5 +1,5 @@
-Giselle Tapia
-Student at High School of Telecommunication Arts and Technology
+## Giselle Tapia
+# Student at High School of Telecommunication Arts and Technology
 gisellet6387@hstat.org
 Giselle is currently a Junior in high school. She is Mexican American and likes traveling.
 
