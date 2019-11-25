@@ -2,13 +2,14 @@
 ## Student at High School of Telecommunication Arts and Technology
 gisellet6387@hstat.org  
 
-Giselle is currently a Junior in high school. She is Mexican American and likes traveling.
+> Giselle is currently a Junior in high school. She is Mexican American and likes traveling.
 
     She would like to..  
-* Travel more
-* Buy her own house 
-* Meet her favorite singer
-    - Romeo Santos or Adriel Favela
+> * Travel more
+> * Buy her own house 
+> * Meet her favorite singer
+>    - Romeo Santos or Adriel Favela
+
 ___
 _Schedule_:  
 1. English
